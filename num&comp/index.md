@@ -1,10 +1,10 @@
-### LAB_1
+# LAB_1
 error404
 
 ---
 ---
 
-### LAB_2
+# LAB_2
 
 **Ques1:** Write a program in c/c++ to find the factorial of a number
 

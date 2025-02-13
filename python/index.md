@@ -1,4 +1,4 @@
-### LAB_1
+# LAB_1
 
 **Ques1:** Write a Python program to check whether a given year is a leap year or not.
 
@@ -28,7 +28,7 @@ Note: If the passenger is either a student or a senior citizen, then they will r
 ---
 ---
 
-### LAB_2
+# LAB_2
 
 **Ques1:** Write a Python program to take 3 numbers as inputs and display the output as follows:  
 > - If all the numbers are the same, output zero '0'.  
@@ -73,7 +73,7 @@ Note: If the passenger is either a student or a senior citizen, then they will r
 ---
 ---
 
-### LAB_3
+# LAB_3
 
 **Ques1:** Write a Python program to find the largest & second largest number from the given 10 input numbers without using arrays.
 
@@ -142,7 +142,7 @@ Note: If the passenger is either a student or a senior citizen, then they will r
 ---
 ---
 
-### LAB_4
+# LAB_4
 
 **Ques1:** Write a Python program to display all even elements in a list
 
