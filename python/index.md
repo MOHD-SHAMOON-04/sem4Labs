@@ -26,6 +26,7 @@
 Note: If the passenger is either a student or a senior citizen, then they will receive a 10% discount on the total ticket price.
 
 ---
+---
 
 ### LAB_2
 
@@ -69,6 +70,7 @@ Note: If the passenger is either a student or a senior citizen, then they will r
 
 **Ques9:** Write a Python program to find all the prime numbers between 100 and 999.
 
+---
 ---
 
 ### LAB_3
@@ -136,5 +138,49 @@ Note: If the passenger is either a student or a senior citizen, then they will r
    *   *
      *
 ```
+
+---
+---
+
+### LAB_4
+
+**Ques1:** Write a Python program to display all even elements in a list
+
+---
+
+**Ques2:** Write a Python program to display all even position elements in a list
+
+---
+
+**Ques3:** Write a Python program to seperate all prime and non-prime numbers in a list and store them in seperate lists
+
+---
+
+**Ques4:** Write a Python program that takes a number and a digit as input and checks if the number contains that digit or not
+
+---
+
+**Ques5:** Write a Python program to find the second largest number and its index in a list without using 2 loops or sorting
+
+---
+
+**ques6:** Suppose a list contains numbers from 1 to 20, write a python program to display the list that contains every other element of the previous list ranging from 3 to 15th position (use range function)
+
+---
+
+**ques7:** Write a Python program to print a list from 1 to 20 but replace all the entries greater then 12 by 12
+
+---
+
+**ques8:** Write a Python program to perform the following operations on a list (use switch-case or if-else)
+> 1. insert at beginning
+> 2. insert at end
+> 3. insert at particular position
+> 4. delete at beginning
+> 5. delete at end
+> 6. delete at particular position
+> 7. find a particular element
+> 8. reverse the list
+> 9. sort the list
 
 ---
