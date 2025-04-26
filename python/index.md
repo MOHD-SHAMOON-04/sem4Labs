@@ -174,40 +174,110 @@ Note: If the passenger is either a student or a senior citizen, then they will r
 ---
 # LAB_6
 ## 27-02
-**Ques1:** Write a Python program 
+**Ques1:** Write a Python program to create a tuple
+> - empty tuple
+> - single element tuple
+> - element taken from the user
+> - nested tuple (input taken from the user)
+> - tuple using some sequence(list)
 
 ---
-**Ques2:** Write a Python program to 
+**Ques2:** Suppose there is a tuple entered from the user, consisting of 20 elements, create a tuple from this existing tuple, that contains every other element existing from position 3 to 15
 
 ---
-**Ques3:** Write a Python program to 
+**Ques3:** Write a Python program to display elements of a tuple in reverse order, using slicing
 
 ---
-**Ques4:** Write a Python program to 
+**Ques4:** Write a Python program to insert an element in the existing tuple
 
 ---
-**Ques5:** Write a Python program to 
+**Ques5:** Write a Menu driven program to perform the following operations:
+> - length of the tuple
+> - largest element in the tuple
+> - second largest element in the tuple
+> - to search an element in the tuple
+> - find the frequency of a given element in the tuple
 
 ---
-**Ques6:** Write a Python program to 
+**Ques6:** Write a Python program to take a nested tuple from the user, and display the following:
+> - T[1][0::3]
+> - T[::2]
+> - T[:1] + T[1:]
 
 ---
-**Ques7:** Write a Python program to 
+**Ques7:** Write a Python program that interactively creates a nested tuple, to store 3 subjects marks for the students, and perform the following:
+> - create a function that computes total marks and percentage obtained by each student
+> - find the index of student having minimum percentage
 
 ---
+# LAB_7
+## 20-03
+**Ques1:** Write a Menu driven program to use all inbuilt functions of String 
 
+---
+**Ques2:** Write a Python program that takes input from the user a piece of text and performs the following:
+> - print the number of `UPPERCASE` characters
+> - print the number of `lowercase` characters
+> - print the number of `digit/numerical` characters
+> - print the number of `special` characters
 
+---
+**Ques3:** Write a Python program that takes input from the user a line and a substring and calculate the number of occurences of that substring in that line
 
+---
+**Ques4:** Write a Python program that takes input from the user a piece of text and do the following:
+> - capitalizes first letter of each word to form a string
+> - capitalizes second letter of each word to form a string
 
+---
+**Ques5:** Write a Python program that reads a string from the user's input and displays the longest substring from the given string having just consonents
 
+---
+**Ques6:** Write a Python program to take input a string and check if the given string is a palindrome or not
 
+---
+**Ques7:** Write a Python program to take large text as input, and calculate te following:
+> - number of lines 
+> - number of words 
+> - number of paragraphs 
+> - percentage of alphaNumeric characters in it 
 
-<!-- LAB 8 12-04: '''WAP to implement a dictionary:
-1. Add the key value pair
-2. Search by the key
-3. Search by the value 
-4. Update the dictionary
-5. Delete the value specified by the user
-6. Print sorted Dictionary
-7. Exit.....'''
-Suppose a list contains numbers from 1-20, WAP to display list that contains every other number ranging from 3-15 -->
+---
+# LAB_8
+## 12-04
+**Ques1:** Write a Python program to implement a Dictionary:
+> 1. Add the key value pair
+> 2. Search by the key
+> 3. Search by the value
+> 4. Update the dictionary
+> 5. Delete the value specified by the user
+> 6. Print sorted Dictionary
+> 7. Exit.....
+
+---
+**Ques2:** QUES 11 from pdf
+
+---
+# LAB_9
+## 17-04
+**Ques1:** Write a Python program to repeatedly ask the user to input student names and their scores in 3 subjects and store them in a dictionary as key value pairs then do the following:
+> - your prog should ask the student name and display their percentage
+> - generate a list of students who secured more than 75%
+> - find the student name with highest marks in every subject
+
+---
+**Ques2:** Write a Python program to create a dictionary as key as programming language and value is its popularity, then do the following:
+> - ask the user for a programming language and display its rank
+> - list all the languages in alphabetical order
+> - print all the languages sorted by popularity rank
+> - print the languages in top 5
+
+---
+**Ques3:** QUES 12 from pdf
+
+---
+# LAB_10
+## 24-04
+**Ques1:** QUES 15 from pdf
+
+---
